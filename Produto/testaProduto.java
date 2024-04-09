@@ -3,6 +3,8 @@ package unicid;
 public class testaProduto {
 
 	public static void main(String[] args) {
+		
+		// Instanciando o Objeto
 
 		Produto p[] = new Produto[3];
 		
@@ -33,6 +35,8 @@ public class testaProduto {
 		System.out.println("Maior preço..: "+ maiorValor(p));
 
 	}
+	
+	// Metódo para calcular o maior valor
 	
 	public static double maiorValor(Produto[] array) {
 		
