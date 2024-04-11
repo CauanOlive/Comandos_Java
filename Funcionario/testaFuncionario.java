@@ -1,5 +1,18 @@
 package unicid;
 
+//	 Escreva um programa que leia o nome e salário atual de um funcionário. O 
+//	programa deve calcular seu novo salário (segundo a tabela abaixo) e mostrar o 
+//	nome, o salário atual e o salário reajustado do funcionário: 
+//	Tabela de Reajuste 
+//	Acréscimo 
+//		De 		Até
+//		-- 		150,00 		25% 
+//		150,00		300,00		20% 
+//		300,00 		600,00 		15% 
+//		600,00 		--		10% 
+//	mostrar ao final do programa a soma dos salários atuais e a soma dos 
+//	salários reajustados.
+
 import java.lang.reflect.Array;
 
 public class testaFuncionario {
