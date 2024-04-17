@@ -1,5 +1,24 @@
 package unicid;
 
+//	 1A) Escreva uma classe chamada Aluno que contenha os atributos privados 
+//	denominados nome, matricula, nota1, nota2, nota3, peso1, peso2 e peso3. Além 
+//	disso,
+//	a. Crie um construtor-padrão para a classe.
+//	b. Crie um construtor que inicialize todos os membros de dados com os valores 
+//	recebidos como argumento.
+//	c. Crie os métodos de acesso (getters e setters) para todos os atributos. Os 
+//	métodos setters devem validar os dados de entrada conforme as regras definidas 
+//	abaixo:
+//	- o nome deve conter pelo menos dois caracteres;
+//	- a matrícula deve ser constituída de 9 dígitos apenas;
+//	d. Escreva um método público para calcular a média ponderada das três notas;
+//	1B) Escreva a classe TestaAluno contendo o método main;
+//	- Crie dois objeto da classe Aluno;
+//	- inicialize com e sem atributos;
+//	- mostre o nome, matrícula e a média do aluno;
+
+
+
 public class testaAluno {
 
 	public static void main(String[] args) {
